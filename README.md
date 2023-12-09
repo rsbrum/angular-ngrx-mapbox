@@ -4,5 +4,5 @@ Lists properties fetched from `nyc-opendata-api` and displays them on a map. On 
 
 # Features
 
-- `Mapbox``: Custom implementation of Mapbox for map functionality
+- `Mapbox`: Custom implementation of Mapbox for map functionality
 - `State Management`: NGRX
